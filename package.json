@@ -1,0 +1,13 @@
+{
+  "name": "micro_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Fi44er/micro_2.git",
+  "author": "Fi44er <vaceslavmalugin81@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@nestjs/microservices": "^10.3.3",
+    "rxjs": "^7.8.1",
+    "ts-proto": "^1.167.3"
+  }
+}
